@@ -89,8 +89,9 @@ p span {
 }
 
 #line {
-
-    
+    width: 570px;
+    margin: 0 auto 27px;
+    border: 1px solid var(--blue-color);
 }
 
 footer {
