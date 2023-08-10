@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 02 - Cartão de visitas para Academia</h1>
+<h1 align="center"> Projeto 02.1 - Cartão de visitas para empresa de segurança</h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -31,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Site é um agregador de links para ser usado como cartão de visitas para uma academia. Há possibilidade de continuidade adicionando informações às seções sobre e treinar.
+O Site é um agregador de links para ser usado como cartão de visitas para uma empresa de segurança da informação. Há possibilidade de continuidade adicionando informações às seções serviços e contato.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/60ah5bApzWWiTyTXEN3jZD/Explorer---Projeto-02-(Copy)?node-id=1%3A6&mode=dev>).
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/30S0ieGZw4nOWPC1UmeUX5/Explorer-(Copy)?node-id=0%3A1&mode=dev>).
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
