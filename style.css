@@ -52,3 +52,38 @@ ul a:hover {
     opacity: 1;
     
 }
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 120px;
+}
+
+h1 {
+    color: var(--white-color);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+
+    text-align: center;
+
+}
+
+h1 span {
+    color: var(--blue-color);
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: var(--grey-color);
+    font-size: 16px;
+    line-height: 28px;
+
+    text-align: center;
+}
+
+p span {
+    color: var(--blue-color);
+}
