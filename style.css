@@ -88,7 +88,25 @@ p span {
     color: var(--blue-color);
 }
 
+#line {
 
+    
+}
+
+footer {
+    text-align: center;
+    padding-top: 150px;
+
+    color: var(--white-color);
+    font-size: 14px;
+    line-height: 28px;
+}
+
+footer a {
+
+    font-weight: bold;
+    color: var(--white-color);
+}
 
 #padlock {
     position: fixed;
