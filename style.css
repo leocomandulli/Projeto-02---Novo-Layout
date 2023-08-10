@@ -87,3 +87,11 @@ p {
 p span {
     color: var(--blue-color);
 }
+
+
+
+#padlock {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+}
